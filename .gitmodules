@@ -1,0 +1,9 @@
+[submodule "ansible-role-openvpn-30"]
+	path = ansible-role-openvpn-30
+	url = https://github.com/kyl191/ansible-role-openvpn
+[submodule "ansible-role-openvpn"]
+	path = ansible-role-openvpn
+	url = https://github.com/schuerg/ansible-role-openvpn
+[submodule "ansible-openvpn"]
+	path = ansible-openvpn
+	url = https://github.com/netzwirt/ansible-openvpn
